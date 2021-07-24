@@ -33,7 +33,7 @@
    ### Questions of Interest
    1) What are the most common amenities?
       
-   https://user-images.githubusercontent.com/87708828/126874722-9e2482dd-11b7-4497-a9e6-e290ac059be6.png
+   ![image](https://user-images.githubusercontent.com/87708828/126874722-9e2482dd-11b7-4497-a9e6-e290ac059be6.png)
      
     In the above chart you can see that the most common amenities in Seattle listings are:
 
