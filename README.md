@@ -33,7 +33,7 @@
    ### Questions of Interest
    1) What are the most common amenities?
       
-    ![image](https://user-images.githubusercontent.com/87708828/126874722-9e2482dd-11b7-4497-a9e6-e290ac059be6.png)
+    https://user-images.githubusercontent.com/87708828/126874722-9e2482dd-11b7-4497-a9e6-e290ac059be6.png
      
     In the above chart you can see that the most common amenities in Seattle listings are:
 
@@ -51,7 +51,7 @@
 
    2) What are the features that attracts the guests most for renting a property?
 
-    ![image](https://user-images.githubusercontent.com/87708828/126874848-591157b2-d1b9-468e-8a03-0f294f68b986.png)
+    https://user-images.githubusercontent.com/87708828/126874848-591157b2-d1b9-468e-8a03-0f294f68b986.png
     
     So for the answer of Question-2 ("What attracts the guests most for renting a property?") we can say that having a Washer/Dryer increases the booking rate for next 30 days       more than 15%. Also having a kitchen and allowing pets are good ideas for increasing the popularity for a listing.
 
@@ -59,13 +59,13 @@
 
    3) what are the attributes associated with the price of a listing?
     
-    ![image](https://user-images.githubusercontent.com/87708828/126874889-a4e10f4f-11db-4f82-9883-5a5a782c8d89.png)
+    https://user-images.githubusercontent.com/87708828/126874889-a4e10f4f-11db-4f82-9883-5a5a782c8d89.png
 
     The highest r-squared value is achieved with 79 features and the r-squared value is 0.6244
 
    4) What is the impact on price if it is be close to downtown?
 
-    ![image](https://user-images.githubusercontent.com/87708828/126874910-7964f604-bcee-4d47-a1e9-75c58a33311f.png)
+    https://user-images.githubusercontent.com/87708828/126874910-7964f604-bcee-4d47-a1e9-75c58a33311f.png
 
     As can be seen above, the 'distance_from_downtown' feature has a negative effect on price. As the distance from downtown increases, the price of listing decreases. For one       kilometer additional distance from downtown, the price of listing decrease around 3 USD.
     
