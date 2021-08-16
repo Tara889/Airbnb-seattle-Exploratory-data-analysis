@@ -20,7 +20,14 @@
      jupyter notebook
      
  ## Project motivation:
-    This project is part of Udacity Data Science nanodegree program: Project write a blogpost
+    This project is part of Udacity Data Science nanodegree program: Project write a blogpost.
+    
+    Below questions have been addressed in this project:
+    1) What are the most common amenities?
+    2) What are the features that attracts the guests most for renting a property?
+    3) what are the attributes associated with the price of a listing?
+    4) What is the impact on price if it is be close to downtown?
+    
     
  ## File descriptions:
     
