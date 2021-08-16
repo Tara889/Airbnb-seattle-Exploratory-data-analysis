@@ -76,3 +76,10 @@
 
     As can be seen above, the 'distance_from_downtown' feature has a negative effect on price. As the distance from downtown increases, the price of listing decreases. For one       kilometer additional distance from downtown, the price of listing decrease around 3 USD.
     
+    
+ ## Acknowledgement and Referemces:
+   
+   This data can be downloaded from https://www.kaggle.com/airbnb/seattle
+   
+   
+    
